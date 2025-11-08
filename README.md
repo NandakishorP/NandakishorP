@@ -45,6 +45,11 @@ Right now: Gas optimization (learning Yul), formal verification, and security pa
 
 Later: Advanced DeFi mechanics, then ZK stuff when I understand the prereqs.
 
+Skills
+Solidity | Foundry | Hardhat | ethers.js | Next.js
+Tests | events / indexing | gas optimization basics
+Understands reentrancy, price oracle risk, and cross-chain failure cases
+
 
 🚀 Looking For
 Part-time smart contract work while I finish college. I can take a feature from contract → tests → frontend integration and ship it. Available ~20–25 hrs/week, totally fine with async.
