@@ -3,10 +3,10 @@
 I'm a smart contract developer building cross-chain stuff and learning what breaks in production.
 
 
-🔭
+
 Working on a cross-chain lending protocol with Chainlink CCIP - it's about 6k lines of Solidity dealing with state sync across chains. The hard part isn't the lending logic, it's keeping everything consistent when messages are flying between chains.
 
-Also going deep on testing and security and peeking into the internals of evm.
+Also going deep on testing and security and peeking into the internals of EVM.
 
 
 #What I know
@@ -27,7 +27,7 @@ Also going deep on testing and security and peeking into the internals of evm.
 
 **Full Stack:**
 - Can build frontends (React, Next.js)
-- Subgraph indexing with GraphQl
+- Subgraph indexing with GraphQL
 - ethers.js, wagmi, all that
 
 ## Projects
@@ -46,9 +46,7 @@ Later: Advanced DeFi mechanics, then ZK stuff when I understand the prereqs.
 
 
 🚀 Looking For
-Part-time smart contract work while I finish my CS degree.
-I take ownership of features and deliver high-quality code safely.
-Available ~20–25 hrs/week — async is fine.
+Part-time smart contract work while I finish college. I can take a feature from contract → tests → frontend integration and ship it. Available ~20–25 hrs/week, totally fine with async.
 
 
 ## 🌐 Socials:
