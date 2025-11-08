@@ -27,7 +27,7 @@ Also going deep on testing and security and peeking into the internals of evm.
 
 **Full Stack:**
 - Can build frontends (React, Next.js)
-- Subgraph indexing
+- Subgraph indexing with GraphQl
 - ethers.js, wagmi, all that
 
 ## Projects
