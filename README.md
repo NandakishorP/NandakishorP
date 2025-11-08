@@ -23,6 +23,7 @@ Also going deep on testing and security and peeking into the internals of EVM.
 
 **Cross-Chain:**
 - Built with CCIP, understand the architecture
+- Designed modular contracts (Vault, LoanManager, CollateralManager)
 - Know why cross-chain is hard (spoiler: everything can fail)
 
 **Full Stack:**
