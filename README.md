@@ -1,5 +1,54 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Formal Verification of  a **Cross-Chain Money Lending Protocol** using **Chainlink CCIP** and writing integration scripts to simulate fuzzing enviorment for cross chain security testing.<br><br>🤝 I’m looking to collaborate on  <br>**DeFi protocols**, **cross-chain projects**, and **smart contract security audits**.<br><br>🫱 I’m looking for help with  <br>Optimizing **formal verification** techniques and improving **fuzzing coverage**.<br><br>🌱 I’m currently learning  <br>Advanced **smart contract security**, **cross-chain interoperability**, and **zero-knowledge proofs**.<br><br>💬 Ask me about  <br>**Solidity**, **Foundry**, **Chainlink CCIP**, **DeFi architectures**, and **smart contract fuzzing**.<br><br>⚡ Fun fact  <br>I once wrote **7,000+ lines of Solidity code** for a CCIP lending protocol… and it actually worked 😎
+
+I'm a smart contract developer building cross-chain stuff and learning what breaks in production.
+
+
+🔭
+Working on a cross-chain lending protocol with Chainlink CCIP - it's about 6k lines of Solidity dealing with state sync across chains. The hard part isn't the lending logic, it's keeping everything consistent when messages are flying between chains.
+
+Also going deep on testing and security and peeking into the internals of evm.
+
+
+#What I know
+
+**Smart Contracts:**
+- Solidity (obviously)
+- Foundry for testing and deployment
+- Hardhat when I need to
+
+**Testing:**
+- Unit tests, fuzz tests, invariant tests
+- Still learning formal verification with Certora
+- Trying to catch bugs before they're expensive
+
+**Cross-Chain:**
+- Built with CCIP, understand the architecture
+- Know why cross-chain is hard (spoiler: everything can fail)
+
+**Full Stack:**
+- Can build frontends (React, Next.js)
+- Subgraph indexing
+- ethers.js, wagmi, all that
+
+## Projects
+
+**Cross-Chain Lending Protocol** - The big one. Lets you deposit collateral on one chain, borrow on another. State managers, state mirrors, CCIP message handling. Still adding tests and finding edge cases.
+
+**Single-Chain Lending** - Simpler DeFi protocol I built to learn the basics. Fully tested, actually works.
+
+Check the repos below for details.
+
+## What I'm Learning
+
+Right now: Gas optimization (learning Yul), formal verification, and security patterns that actually matter in production.
+
+Later: Advanced DeFi mechanics, then ZK stuff when I understand the prereqs.
+
+## Looking For
+
+Part-time smart contract work while I finish college. Good at shipping features end-to-end (contracts + frontend). Available ~25hrs/week.
+
+If you're building something interesting and need help, let's talk.
 
 
 ## 🌐 Socials:
