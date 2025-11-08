@@ -44,11 +44,11 @@ Right now: Gas optimization (learning Yul), formal verification, and security pa
 
 Later: Advanced DeFi mechanics, then ZK stuff when I understand the prereqs.
 
-## Looking For
 
-Part-time smart contract work while I finish college. Good at shipping features end-to-end (contracts + frontend). Available ~25hrs/week.
-
-If you're building something interesting and need help, let's talk.
+🚀 Looking For
+Part-time smart contract work while I finish my CS degree.
+I take ownership of features and deliver high-quality code safely.
+Available ~20–25 hrs/week — async is fine.
 
 
 ## 🌐 Socials:
