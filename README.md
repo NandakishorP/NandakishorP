@@ -55,8 +55,7 @@ Understands reentrancy, price oracle risk, and cross-chain failure cases
 Part-time smart contract work while I finish college. I can take a feature from contract → tests → frontend integration and ship it. Available ~20–25 hrs/week, totally fine with async.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nandakishor-p-07960b219/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nandakishor2277) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandakishor22770@gmail.com) 
+
 
 # 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
