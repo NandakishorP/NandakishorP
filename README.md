@@ -17,6 +17,8 @@ Most of my time goes into:
 
 ### Smart Contracts & Protocol Design
 - Solidity (production-grade patterns)
+- Noir and ZK Proofs
+- Invariant testing and stress testing models
 - Stateful protocol design (lending, tranching, accounting)
 - Cross-contract and cross-module coordination
 - Upgrade-safe and invariant-aware architectures
@@ -92,6 +94,8 @@ If it survives fuzzing, invariants, and bad actors — then it’s interesting.
 
 ## 🚀 Availability
 
+
+Available 25hrs/week
 
 Comfortable owning a feature end-to-end:
 **design → implementation → tests → review**
