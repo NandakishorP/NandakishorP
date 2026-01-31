@@ -1,70 +1,104 @@
-# 💫 About Me:
+# 💫 About Me
 
-I'm a smart contract developer building cross-chain stuff and learning what breaks in production.
+Smart contract engineer building institutional DeFi protocols | Focused on correctness, security, and stateful systems
 
+I work primarily on **lending and credit protocols**, where the hard problems aren’t business logic but **state consistency, accounting invariants, and failure handling** across time, users, and chains. I prioritize correctness over velocity so systems **hold up under adversarial conditions**.
 
+Most of my time goes into:
+- Designing protocol flows
+- Writing exhaustive tests (unit → fuzz → invariant)
+- Reasoning about edge cases, loss scenarios, and admin risk
+- Understanding how assumptions fail in production
 
-Working on a cross-chain lending protocol with Chainlink CCIP - it's about 6k lines of Solidity dealing with state sync across chains. The hard part isn't the lending logic, it's keeping everything consistent when messages are flying between chains.
-
-Also going deep on testing and security and peeking into the internals of EVM.
-
-
-#What I know
-
-**Smart Contracts:**
-- Solidity (obviously)
-- Foundry for testing and deployment
-- Hardhat when I need to
-
-**Testing:**
-- Unit tests, fuzz tests, invariant tests
-- Still learning formal verification with Certora
-- Trying to catch bugs before they're expensive
-
-**Cross-Chain:**
-- Built with CCIP, understand the architecture
-- Designed modular contracts (Vault, LoanManager, CollateralManager)
-- Know why cross-chain is hard (spoiler: everything can fail)
-
-**Full Stack:**
-- Can build frontends (React, Next.js)
-- Subgraph indexing with GraphQL
-- ethers.js, wagmi, all that
-
-## Projects
-
-**Cross-Chain Lending Protocol** - The big one. Lets you deposit collateral on one chain, borrow on another. State managers, state mirrors, CCIP message handling. Still adding tests and finding edge cases.
-
-**Single-Chain Lending** - Simpler DeFi protocol I built to learn the basics. Fully tested, actually works.
-
-Check the repos below for details.
-
-## What I'm Learning
-
-Right now: Gas optimization (learning Yul), formal verification, and security patterns that actually matter in production.
-
-Later: Advanced DeFi mechanics, then ZK stuff when I understand the prereqs.
-
-Skills
-Solidity | Foundry | Hardhat | ethers.js | Next.js
-Tests | events / indexing | gas optimization basics
-Understands reentrancy, price oracle risk, and cross-chain failure cases
-
-
-🚀 Looking For
-Part-time smart contract work while I finish college. I can take a feature from contract → tests → frontend integration and ship it. Available ~20–25 hrs/week, totally fine with async.
-
-
-
-
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NandakishorP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NandakishorP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NandakishorP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NandakishorP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Core Skills
+
+### Smart Contracts & Protocol Design
+- Solidity (production-grade patterns)
+- Stateful protocol design (lending, tranching, accounting)
+- Cross-contract and cross-module coordination
+- Upgrade-safe and invariant-aware architectures
+
+### Testing & Verification
+- Foundry: unit, fuzz, and invariant testing
+- Custom invariant handlers & adversarial flows
+- Failure-first testing mindset
+- Familiar with formal verification concepts (Certora-style specs)
+
+### Security
+- Accounting & rounding safety
+- Admin & governance risk analysis
+- Oracle & external dependency failure modes
+- Cross-chain & async execution risks
+- Economic modelling and stress testing
+
+### Cross-Chain Systems
+- CCIP architecture & message lifecycle
+- State mirroring & synchronization guarantees
+- Failure handling for delayed, reordered, or missing messages
+- Designing for partial execution & recovery
+
+### Tooling & Infra
+- Foundry, Hardhat
+- ethers.js, wagmi
+- Subgraph indexing (GraphQL)
+- Gas profiling & basic Yul optimizations
+- Barretenberg and nargo
+
+---
+
+## 🏗️ Ongoing Work
+
+### Credit / Tranche-Based Lending System
+- Senior / junior / equity tranches
+- Loss waterfalls and recovery handling
+- Interest indexing with share-based accounting
+- Extensive invariant and fuzz testing
+- Python economic modeling for stress scenarios
+
+### Cross-Chain Lending Protocol
+- Deposit collateral on one chain, borrow on another
+- Explicit state synchronization across chains
+- Failure-aware message handling
+- Heavy focus on invariants and edge-case correctness
+- Experimenting with sending proofs between chains and rwa systems
+
+---
+
+## 🔍 What I’m Going Deep On
+
+- Protocol-level invariants and failure modeling
+- Advanced fuzzing & invariant testing strategies
+- Gas-aware design tradeoffs
+- Governance and admin attack surfaces
+- Zero-knowledge systems (Noir), from a protocol-integration perspective
+
+
+---
+
+## 🧩 Mental Model
+
+I approach protocols like distributed systems:
+- Every external call can fail
+- Every assumption will be violated
+- Every invariant must hold under adversarial input
+
+If it survives fuzzing, invariants, and bad actors — then it’s interesting.
+
+
+---
+
+## 🚀 Availability
+
+
+Comfortable owning a feature end-to-end:
+**design → implementation → tests → review**
+
+---
+
+## 💻 Tech Stack
+
+**Solidity · Foundry · Noir · NextJS · GraphQL · Next.js**  
+**Unit / Fuzz / Invariant Testing · Protocol Security · Cross-Chain Systems**
