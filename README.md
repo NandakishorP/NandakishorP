@@ -72,7 +72,7 @@ for cross-chain RWA systems.
 
 ## Availability
 
-25 hrs/week. Comfortable owning features end-to-end:
+30 hrs/week. Comfortable owning features end-to-end:
 design → implementation → testing → review.
 
 **Solidity · Noir · Foundry · Echidna · Medusa · CCIP**
